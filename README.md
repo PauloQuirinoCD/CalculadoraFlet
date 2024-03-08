@@ -11,7 +11,7 @@ Capacidade de realizar cálculos com números inteiros e decimais.
 Interface simples e intuitiva, facilitando a utilização por usuários de diferentes níveis de experiência.
 Como Executar
 Para executar a calculadora, é necessário ter o Python instalado em seu sistema. Basta clonar este repositório e executar o arquivo calculadora.py:
-[Calculadora]()
+[Calculadora](https://github.com/PauloQuirinoCD/CalculadoraFlet/blob/main/calculadora.py)
 
 ### Contribuições
 Contribuições são bem-vindas! Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request. Existem várias maneiras de melhorar a calculadora, desde a adição de novas funcionalidades até a melhoria da interface gráfica.
